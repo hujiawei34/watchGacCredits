@@ -1,0 +1,7 @@
+[2025-07-24 21:14:34] ✅ 200 OK - Response: {"balance":745,"creditCap":5400,"refillRate":100,"lastRefill":"2025-07-24T13:06:08.227Z"}
+[2025-07-24 21:19:35] ✅ 200 OK - Response: {"balance":711,"creditCap":5400,"refillRate":100,"lastRefill":"2025-07-24T13:06:08.227Z"}
+[2025-07-24 21:21:40] ✅ 200 OK - Response: {"balance":589,"creditCap":5400,"refillRate":100,"lastRefill":"2025-07-24T13:06:08.227Z"}
+[2025-07-24 21:22:43] ✅ 200 OK - Response: {"balance":589,"creditCap":5400,"refillRate":100,"lastRefill":"2025-07-24T13:06:08.227Z"}
+[2025-07-24 21:23:43] ✅ 200 OK - Response: {"balance":499,"creditCap":5400,"refillRate":100,"lastRefill":"2025-07-24T13:06:08.227Z"}
+[2025-07-24 21:24:44] ✅ 200 OK - Response: {"balance":481,"creditCap":5400,"refillRate":100,"lastRefill":"2025-07-24T13:06:08.227Z"}
+[2025-07-24 21:25:45] ✅ 200 OK - Response: {"balance":459,"creditCap":5400,"refillRate":100,"lastRefill":"2025-07-24T13:06:08.227Z"}
