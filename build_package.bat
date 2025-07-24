@@ -16,5 +16,6 @@ echo whl文件已创建在dist目录中
 echo.
 echo 若要发布到PyPI，请运行:
 echo python -m twine upload dist/*
+python -m twine upload dist/*
 echo.
 pause 
